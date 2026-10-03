@@ -1,18 +1,9 @@
 #Subtraction of Integers
 
 Subtraction is the action of taking two integers and finding the difference between them
+
 For example:
+
 30-16=14
+
 Given the integers, the difference is 14.
-
-# Multiplication of Integers
-
-Multiplication is the action of repeatedly adding two integers.
-
-For example:
-
-4 x 5 = 20
-
-To prove this:
-
-4 + 4 + 4 + 4 + 4 = 20 
